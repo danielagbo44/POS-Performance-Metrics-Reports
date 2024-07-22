@@ -34,7 +34,7 @@ The analysis was conducted using a combination of Excel and Power BI, leveraging
 - **Insight Generation**: Synthesizing analysis results into actionable business insights.
 - **Recommendation Development**: Translating insights into data-driven recommendations to improve business performance.
 
-[POS Performance Metrics Analysis](https://github.com/danielagbo44/POS-Performance-Metrics-Reports/blob/main/POS%20Performance%20PBI%20Feb%2C23_page-0001.jpg)
+![POS Performance Metrics Analysis](https://github.com/danielagbo44/POS-Performance-Metrics-Reports/blob/main/POS%20Performance%20PBI%20Feb%2C23_page-0001.jpg)
 
 
 ## Key Insights and Recommendations
