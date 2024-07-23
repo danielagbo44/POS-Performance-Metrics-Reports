@@ -1,5 +1,5 @@
 # POS-Performance-Analysis
-Abt is a corporate and retail company specializing in the sale and customisation of electronic banking services. Established in 2010, Abt Sales has grown from a regional business to one of the leading banks in its sector, known for its exceptional customer service and a wide range of products. 
+Abt is a corporate and retail company specializing in the sale and customisation of electronic payment services. Established in 2010, Abt Sales has grown from a regional business to one of the leading banks in its sector, known for its exceptional customer service and a wide range of products. 
 
 ## Problem Statement
 Abt aims to enhance its operational efficiency, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
