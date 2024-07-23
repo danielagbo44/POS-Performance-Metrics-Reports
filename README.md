@@ -1,10 +1,10 @@
 # POS-Performance-Analysis
-Abt is a corporate and retail company specializing in the sale and customisation of electronic payment services. Established in 1998, Abt Sales has grown from a regional business to one of the leading payment service providers in its sector, known for its exceptional customer service and a wide range of products. 
+Abt is a corporate and retail company specialized in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business to one of the leading payment service providers in its sector, known for its exceptional customer service and a wide range of products. 
 
 ## Problem Statement
 Abt aims to enhance its operational efficiency, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
 
-1. Identify active and inactive terminals: Understanding what drives customer satisfaction and terminal usage. Analyse the ratio of performing to non performing terminals.
+1. Identify active and inactive terminals: Understanding what drives customer satisfaction and terminal usage. Analyse the ratio of performing to nonperforming terminals.
 2. Channel Performance: Evaluating the effectiveness of different region point of sales to optimize marketing strategies and resource allocation.
 3. Cost Management: Analyzing total costs of utilities such as paper rolls, deployment, and repair cost to identify opportunities for reducing expenses and improving profit margins.
 4. Deployment Forecasting: Utilizing order quantities to predict future request and adjust deployment levels accordingly.
