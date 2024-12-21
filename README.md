@@ -1,4 +1,4 @@
-# POS-Performance-Analysis
+# Point-of-Sales Performance Analysis
 Abt is a corporate and retail company specialized in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business to one of the leading payment service providers in its sector, known for its exceptional customer service and a wide range of products. 
 
 ## Problem Statement
